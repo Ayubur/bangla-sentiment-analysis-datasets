@@ -1,0 +1,7 @@
+Status analysis : complete
+
+Comments analysis:
+
+CommentsOutputFileEkattorTV Range : 10-2224
+CommentsOutputFileMagistrate Range: 10-1228
+CommentsOutputImranHSarker Range: 10-4513
